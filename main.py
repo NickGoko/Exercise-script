@@ -24,7 +24,7 @@ header = {
     "x-app-key": MY_APP_KEY,
     "Content-Type": "application/json"
 }
-exercise_text = input("What exercise did you do: ")
+exercise_text = input("What exercise did you do today: ")
 
 exercise_params = {
     # "query": input("What exercise did you do today: "),
